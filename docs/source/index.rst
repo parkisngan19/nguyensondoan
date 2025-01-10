@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Ceo Nguyễn Sơn Đoàn - Người dẫn dắt Blue88 đến thành công
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nguyễn Sơn Đoàn <https://blue88.biz/nguyen-son-doan/>`_ là Founder/CEO của nhà cái Blue88. Anh là người đứng sau thành công của nhà cái Blue88 chỉ trong vòng 6 tháng khi thành lập nhà cái và phát triển sản phẩm. Nguyễn Sơn Đoàn tốt nghiệp đại học tại Singapore chuyên ngành CNTT, và đã có hơn 15 năm kinh nghiệm làm phát triển sản phẩm game tại các studio lớn ở Singapore, Malaysia và Việt Nam. Anh định hướng mang Blue88 trở thành một trong những nhà cái cá cược thể thao lớn nhất Châu Á.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 3D Đ. Võ Văn Vân, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0895585213. 
 
-Contents
---------
+Email: blue88@gmail.com. 
 
-.. toctree::
+Website: https://blue88.biz/nguyen-son-doan/ 
 
-   usage
-   api
+#nguyensondoan #ceonguyensondoan #nguyensondoan_blue88
